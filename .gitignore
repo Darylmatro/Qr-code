@@ -1,0 +1,48 @@
+# Fichiers générés par Python
+*.py[cod]
+__pycache__/
+*.pyo
+
+# Fichiers de distribution / packaging
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de journalisation
+*.log
+
+# Fichiers et dossiers générés par les outils de test
+.coverage
+.tox/
+nosetests.xml
+.cache
+.pytest_cache/
+
+# Environnement virtuel (virtualenv)
+venv/
+ENV/
+
+# Fichiers de configuration IDE PyCharm
+.idea/
+*.iml
+
+# Fichiers de bases de données locales
+*.sqlite3
+
+# Fichiers système d'exploitation
+Thumbs.db  # pour Windows
+
+# Fichier de sortie du script
+myqr.png
